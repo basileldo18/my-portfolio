@@ -67,11 +67,11 @@ const Projects = () => {
             }
           />
           <Project_prop
-            title="Stark Rockets"
-            para="Stark is a fantasy and futuristic website which offers the ride of space-ship to the space"
+            title="ToxiTrack AI"
+            para="Toxicity Analyzer is a web-based tool that uses AI to assess online comments for toxicity, threats, insults, and hate, powered by the advanced BERT model."
             img={Rocket}
             link="https://stark-rockets.onrender.com/"
-            github_link="https://github.com/DhairyaMajmudar/STARK"
+            github_link="https://github.com/basileldo18/comment-toxicity-analyzer.git"
             html5={
               <Tooltip title="HTML5" arrow>
                 <IconButton>
@@ -87,94 +87,14 @@ const Projects = () => {
               </Tooltip>
             }
             tailwindcss={
-              <Tooltip title="TailWind CSS" arrow>
-                <IconButton>
-                  <SiTailwindcss className="dark:text-slate-200 text-black" />
-                </IconButton>
-              </Tooltip>
-            }
-          />
-          <Project_prop
-            title="Thrive"
-            para="Thrive is a website which primarily focuses on improving life-style and well-being"
-            img={WellBeing}
-            link="https://dhairyamajmudar.github.io/Thrive/"
-            github_link="https://github.com/DhairyaMajmudar/Thrive"
-            html5={
-              <Tooltip title="HTML 5" arrow>
-                <IconButton>
-                  <SiHtml5 className="dark:text-slate-200 text-black" />
-                </IconButton>
-              </Tooltip>
-            }
-            javascript={
-              <Tooltip title="JavaScript" arrow>
-                <IconButton>
-                  <SiJavascript className="dark:text-slate-200 text-black" />
-                </IconButton>
-              </Tooltip>
-            }
-            css3={
-              <Tooltip title="CSS 3" arrow>
-                <IconButton>
-                  <SiCss3 className="dark:text-slate-200 text-black" />
-                </IconButton>
-              </Tooltip>
-            }
-          />
-          <Project_prop
-            title="GPT-4 Website"
-            para="GPT 4 is a website which focuses on introduction of AI to the world "
-            img={GPT4}
-            link="https://dhairya-majmudar-gpt-4.netlify.app/"
-            github_link="https://github.com/DhairyaMajmudar/GPT-4-Website"
-            react={
-              <Tooltip title="React" arrow>
-                <IconButton>
-                  <SiReact className="dark:text-slate-200 text-black" />
-                </IconButton>
-              </Tooltip>
-            }
-            javascript={
-              <Tooltip title="JavaScript" arrow>
-                <IconButton>
-                  <SiJavascript className="dark:text-slate-200 text-black" />
-                </IconButton>
-              </Tooltip>
-            }
-            css3={
-              <Tooltip title="CSS 3" arrow>
-                <IconButton>
-                  <SiCss3 className="dark:text-slate-200 text-black" />
-                </IconButton>
-              </Tooltip>
-            }
-          />
-          <Project_prop
-            title="Stone-Paper-Scissors Game"
-            para="A Stone Paper Scissors game created  to remember childhood memories"
-            img={Game}
-            link=""
-            github_link="https://github.com/DhairyaMajmudar/Stone-Paper-Scissors"
-            html5={
-              <Tooltip title="HTML 5" arrow>
-                <IconButton>
-                  <SiHtml5 className="dark:text-slate-200 text-black" />
-                </IconButton>
-              </Tooltip>
-            }
-            javascript={
-              <Tooltip title="JavaScript" arrow>
-                <IconButton>
-                  <SiJavascript className="dark:text-slate-200 text-black" />
-                </IconButton>
-              </Tooltip>
-            }
-            css3={
-              <Tooltip title="CSS 3" arrow>
-                <IconButton>
-                  <SiCss3 className="dark:text-slate-200 text-black" />
-                </IconButton>
+              <Tooltip title="Flask" arrow>
+<IconButton>
+  <img
+    src="https://www.vectorlogo.zone/logos/palletsprojects/palletsprojects-icon.svg"
+    alt="Flask"
+    className="w-6 h-6 dark:invert"
+  />
+</IconButton>
               </Tooltip>
             }
           />

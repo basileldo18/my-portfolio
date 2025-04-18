@@ -31,7 +31,7 @@ const Education = () => {
                 className="w-[90px] h-[90px]"
               />
               <h1 className="bg-clip-text text-transparent bg-gradient-to-r max-sm:text-[17px] from-amber-500 via-orange-600 to-yellow-500 dark:from-[#ff6600] dark:to-slate-100 font-semibold text-2xl w-[300px] h-[100px] tracking-wider ">
-                Indian Institue Of Information Technology Kota
+                Rajagiri School of Engineering and Technology
               </h1>
             </div>
 
@@ -40,11 +40,11 @@ const Education = () => {
                 bachelor of technology
               </h3>
               <p className="italic capitalize text-gray-500 dark:text-slate-500 text-xl max-sm:text-lg leading-9">
-                November 2022 - may 2026
+                November 2021 - may 2025
               </p>
 
               <p className="capitalize text-gray-500 dark:text-slate-500 text-xl max-sm:text-lg leading-9">
-                electronics and communication engineering
+                Computer Science And Engineering
               </p>
             </div>
           </div>
