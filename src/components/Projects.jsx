@@ -67,10 +67,38 @@ const Projects = () => {
             }
           />
           <Project_prop
+            title="AI Legal Assistant"
+            para="AI Legal Assistant is a smart platform for drafting, reviewing, and translating legal documents, offering AI-based chat support, document suggestions, and advocate search for fast and reliable legal help"
+            img={Portfolio}
+            link=""
+            github_link=""
+            react={
+              <Tooltip title="Flask" arrow>
+                <IconButton>
+                  <SiReact className="dark:text-slate-200 text-black" />
+                </IconButton>
+              </Tooltip>
+            }
+            tailwindcss={
+              <Tooltip title="HTML5" arrow>
+                <IconButton>
+                <SiHtml5 className="dark:text-slate-200 text-black" />
+                </IconButton>
+              </Tooltip>
+            }
+            vite={
+              <Tooltip title="CSS" arrow>
+                <IconButton>
+                  <SiVite className="dark:text-slate-200 text-black" />
+                </IconButton>
+              </Tooltip>
+            }
+          />
+          <Project_prop
             title="ToxiTrack AI"
             para="Toxicity Analyzer is a web-based tool that uses AI to assess online comments for toxicity, threats, insults, and hate, powered by the advanced BERT model."
             img={Rocket}
-            link="https://stark-rockets.onrender.com/"
+           // link="https://stark-rockets.onrender.com/"
             github_link="https://github.com/basileldo18/comment-toxicity-analyzer.git"
             html5={
               <Tooltip title="HTML5" arrow>
@@ -94,6 +122,7 @@ const Projects = () => {
     alt="Flask"
     className="w-6 h-6 dark:invert"
   />
+  
 </IconButton>
               </Tooltip>
             }

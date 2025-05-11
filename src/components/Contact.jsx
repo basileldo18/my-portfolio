@@ -39,16 +39,10 @@ const Contact = () => {
                 <SiLinkedin />
               </a>
               <a
-                href="https://www.instagram.com/dhairya_majmudar_1511/"
+                href="https://www.instagram.com/basileldo19?igsh=MXZuZGlqenIyaG9s"
                 className=" hover:text-slate-500  dark:hover:text-sky-300"
               >
                 <SiInstagram />
-              </a>
-              <a
-                href="https://twitter.com/majmudar777"
-                className=" hover:text-slate-500  dark:hover:text-sky-300"
-              >
-                <SiTwitter />
               </a>
               <a
                 href="basileldo2@gmail.com"
@@ -66,7 +60,7 @@ const Contact = () => {
 
               <button className="py-3 px-4 bg-gradient-to-t dark:from-cyan-500 dark:to-slate-300 from-blue-600 to-cyan-600  font-medium text-[12px] text-[#e1e1e1] dark:text-black outline-none mt-10 mr-3 rounded ">
                 <a
-                  href="https://github.com/DhairyaMajmudar/Personal-Portfolio"
+                  href="https://github.com/basileldo18"
                   className="flex gap-2 items-center justify-center"
                 >
                   <SiGithub />

@@ -21,13 +21,15 @@ const certifications = [
     link: "https://learn.deeplearning.ai/accomplishments/004091a6-99ef-4a25-b381-951946271144?usp=sharing",
   },
   {
-    title: "Advanced React",
-    issuer: "Udemy",
-    date: "Feb 2024",
-    domain: "Frontend Frameworks",
-    icon: "https://img.icons8.com/color/96/react-native.png",
-    link: "https://udemy.com/certificate/react-advanced",
-  },
+    "title": "Workshop On Robotic Operating System",
+    "issuer": "Udemy",
+    "date": "Feb 2024",
+    "domain": "Robotics / Operating Systems",
+    icon:"https://img.icons8.com/color/96/artificial-intelligence.png",
+    "link": "https://i.postimg.cc/RFmdWGqf/Screenshot-2024-07-06-094501.png"
+  }
+  ,
+    
 ];
 
 const Certification = () => {
